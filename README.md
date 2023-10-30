@@ -1,5 +1,5 @@
 ### Hey there, welcome to my GitHub! 
-### I'm Arnom, game developer!
+### I'm Arnom, full stack developer!
 
 ![arnomleonam](https://github-readme-stats.vercel.app/api?username=arnomleonam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=141414)
 
