@@ -12,7 +12,7 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,qt)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)
 
@@ -28,12 +28,11 @@
 
 ## Softwares
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,godot,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,godot,figma,ps,ae,ai)](https://skillicons.dev)
 
 ## Operational Systems
 
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 
